@@ -1,32 +1,49 @@
-<h1 align="center">Hello 👋 This is Vishal Kumar</h1>
-<h3 align="center">Full-Stack .NET Developer</h3>
+<h1 align="center">Vishal Kumar</h1>
+<h3 align="center">Full-Stack .NET Developer · C# · ASP.NET Core · Microservices · Angular / React</h3>
+
+---
+
+### About me
+
+Software Developer at **Pulse Solutions** with **2.5+ years** of experience building backend services and full-stack web applications on the .NET platform.
+
+- Design and build **RESTful APIs** and **microservices** with ASP.NET Core and EF Core
+- Apply **Clean Architecture**, validation, structured logging and automated testing
+- Build responsive front-ends with **Angular**, **React** and **Next.js**
+- Work with **SQL Server** for schema design, queries and performance
+
+---
+
+### Tech stack
+
+**Backend:** C# · ASP.NET Core Web API · .NET 8/9/10 · Entity Framework Core · JWT Auth · FluentValidation · Serilog  
+**Frontend:** Angular · React · Next.js · TypeScript · JavaScript · Tailwind CSS  
+**Database:** SQL Server  
+**Testing:** xUnit · Moq · FluentAssertions  
+**Tools:** Git · GitHub · Visual Studio · VS Code · Swagger / OpenAPI · Postman
+
+---
+
+### Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**RetailFlow**](https://github.com/Blockcoder07/RetailFlow) | Retail platform split into Auth, Inventory and Order microservices with an Angular front-end | .NET 8, EF Core, JWT, SQL Server, Angular |
+| [**Clinic Management System**](https://github.com/Blockcoder07/Clinik_ManageMent) | Multi-tenant clinic app — patients, appointments, invoices and revenue summaries with per-tenant data isolation | .NET 9, EF Core, JWT, FluentValidation, Angular |
+| [**Order & Stock Microservices**](https://github.com/Blockcoder07/OrderStockMicroservices) | Two independent services with separate databases, communicating over HTTP via typed HttpClient | .NET 9, EF Core, Serilog, Swagger |
+| [**Inventory Item Management**](https://github.com/Blockcoder07/Inventory_Item_Management) | Clean Architecture microservice with soft delete, pagination, Result pattern and RFC 7807 errors | .NET 10, EF Core, FluentValidation |
+| [**Bank Statement API**](https://github.com/Blockcoder07/BankstatementApi) | Secured REST API for bank statements with unit test coverage | .NET 10, JWT, Serilog, xUnit, Moq |
+| [**Developer Portfolio**](https://github.com/Blockcoder07/My_Protfolio) | Responsive personal portfolio with dark/light theme and animations | Next.js 15, React 19, TypeScript, Tailwind |
+
+---
+
+### GitHub stats
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=C%23+%7C+ASP.NET+Core+%7C+Web+APIs;Microservices+%7C+SQL+Server;Angular+%7C+React+%7C+TypeScript" alt="Typing SVG" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Blockcoder07&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blockcoder07&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Blockcoder07&label=Profile%20views&color=0e75b6&style=flat" alt="Blockcoder07" /> </p>
+---
 
-- 🔭 I'm currently working at **Pulse Solutions** as a **Software Developer**.
-
-- 🌱 I build REST APIs, microservices and full-stack web apps with **.NET**, **Angular** and **React**.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blockcoder07&theme=default" alt="stats" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blockcoder07&theme=default" alt="top langs" height="180" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Blockcoder07&" alt="streak" /></p>
+<p align="center"><i>Open to backend / full-stack .NET opportunities — feel free to reach out.</i></p>
