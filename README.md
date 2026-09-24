@@ -1,6 +1,12 @@
 <h1 align="center">Vishal Kumar</h1>
 <h3 align="center">Full-Stack .NET Developer · C# · ASP.NET Core · Microservices · Angular / React</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishal-kumar-rameshwar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:vvkumar151101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="tel:+917461814147"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+</p>
+
 ---
 
 ### About me
@@ -42,6 +48,16 @@ Software Developer at **Pulse Solutions** with **2.5+ years** of experience buil
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Blockcoder07&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blockcoder07&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+### Let's connect
+
+<p>
+  <a href="https://www.linkedin.com/in/vishal-kumar-rameshwar/"><img src="https://img.shields.io/badge/LinkedIn-vishal--kumar--rameshwar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br/>
+  <a href="mailto:vvkumar151101@gmail.com"><img src="https://img.shields.io/badge/Email-vvkumar151101%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a><br/>
+  <a href="tel:+917461814147"><img src="https://img.shields.io/badge/Phone-%2B91%2074618%2014147-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Phone"/></a>
 </p>
 
 ---
