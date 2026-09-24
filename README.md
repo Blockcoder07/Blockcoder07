@@ -46,8 +46,11 @@ Software Developer at **Pulse Solutions** with **2.5+ years** of experience buil
 ### GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Blockcoder07&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blockcoder07&layout=compact&hide_border=true" alt="Top languages"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blockcoder07&theme=default" alt="GitHub stats"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blockcoder07&theme=default" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Blockcoder07&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
