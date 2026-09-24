@@ -24,8 +24,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blockcoder07&show_icons=true&locale=en&layout=compact" alt="top langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Blockcoder07&show_icons=true&locale=en" alt="stats" /></p>
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blockcoder07&theme=default" alt="stats" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blockcoder07&theme=default" alt="top langs" height="180" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Blockcoder07&" alt="streak" /></p>
